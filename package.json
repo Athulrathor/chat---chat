@@ -5,19 +5,19 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"npm install --prefix backend && npm install --prefix fronthend && npm run build --prefix fronthend",
-    "start":"npm run start --prefix backend"
+    "build": "npm install --prefix backend && npm install --prefix fronthend && npm run build --prefix fronthend",
+    "start": "npm run start --prefix backend"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Athulrathor/chatAPP.git"
+    "url": "git+https://github.com/Athulrathor/chat-&-chat.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Athulrathor/chatAPP/issues"
+    "url": "https://github.com/Athulrathor/chat-&-chat/issues"
   },
-  "homepage": "https://github.com/Athulrathor/chatAPP#readme"
+  "homepage": "https://github.com/Athulrathor/chat-&-chat#readme"
 }
